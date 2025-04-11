@@ -1,0 +1,29 @@
+h1 {
+    font-size: 54px;
+    color: #9DC384;
+    text-decoration: underline;
+}
+
+a {
+    color: #437fff;
+    display: flex;
+    gap: 8px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #437fff;
+}
+
+a:hover {
+    color: #2753b4;
+}
+
+.container {
+    font-size:32px;
+    padding-top: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
